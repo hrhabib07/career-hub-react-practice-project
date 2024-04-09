@@ -74,44 +74,42 @@
           "email": "info@gmail.com",
           "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
         }
-      },
-      {
+      },{
         "id": 5,
-        "logo": "https://i.ibb.co/JRXgX92/tesla-9-1.png",
-        "job_title": "Technical Database Engineer",
-        "company_name": "Tesla",
-        "remote_or_onsite": "Remote",
-        "location": "Dhaka, Bangladesh",
-        "job_type": "Full Time",
-        "salary": "100k-150k",
-        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-        "educational_requirements": "Bachelor degree to complete any reputational university.",
-        "experiences": "2-3 Years in this field.",
+        "logo": "https://i.ibb.co/0GqZ7V7/apple-logo-4-1.png",
+        "job_title": "Frontend Developer",
+        "company_name": "Apple Inc.",
+        "remote_or_onsite": "Onsite",
+        "location": "Los Angeles, California",
+        "job_type": "Contract",
+        "salary": "120k-180k",
+        "job_description": "A frontend developer is responsible for implementing visual elements that users see and interact with in a web application. They are proficient in HTML, CSS, and JavaScript, and work closely with designers to bring mockups to life.",
+        "job_responsibility": "Developing user-facing features: Frontend developers translate designs and wireframes into high-quality code, ensuring the best possible user experience. They collaborate with backend developers and web designers to improve usability.",
+        "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+        "experiences": "3-5 years of experience in frontend development.",
         "contact_information": {
-          "phone": "01750-00 00 00",
-          "email": "info@gmail.com",
-          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+          "phone": "+1 (123) 456-7890",
+          "email": "careers@apple.com",
+          "address": "1 Apple Park Way, Cupertino, California"
         }
       },
       {
         "id": 6,
-        "logo": "https://i.ibb.co/H4wJGhb/netflix-4-1.png",
-        "job_title": "Senior Product Designer",
-        "company_name": "Netflix",
+        "logo": "https://i.ibb.co/Dg5s9yM/facebook-logo-3-1.png",
+        "job_title": "Backend Developer",
+        "company_name": "Meta Platforms, Inc. (Facebook)",
         "remote_or_onsite": "Remote",
-        "location": "Dhaka, Bangladesh",
+        "location": "San Francisco, California",
         "job_type": "Full Time",
-        "salary": "100k-150k",
-        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-        "educational_requirements": "Bachelor degree to complete any reputational university.",
-        "experiences": "2-3 Years in this field.",
+        "salary": "130k-200k",
+        "job_description": "A backend developer is responsible for server-side web application logic and integration of the work front-end developers do. They also develop and maintain databases that power dynamic websites and applications.",
+        "job_responsibility": "Building reusable code and libraries: Backend developers write clean, scalable, and efficient code that can be reused across projects. They also optimize applications for maximum speed and scalability.",
+        "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+        "experiences": "3-5 years of experience in backend development.",
         "contact_information": {
-          "phone": "01750-00 00 00",
-          "email": "info@gmail.com",
-          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+          "phone": "+1 (123) 456-7890",
+          "email": "careers@meta.com",
+          "address": "1 Hacker Way, Menlo Park, California"
         }
       }
-  
   ]
